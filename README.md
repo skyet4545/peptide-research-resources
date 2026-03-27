@@ -211,3 +211,20 @@ MIT License — free to use, share, and adapt with attribution.
 ---
 
 *Maintained by the peptide research community. Primary resource partner: [PeptideRadar.net](https://peptideradar.net)*
+
+---
+
+## 📚 Additional Reference Documents
+
+| Document | Description |
+|----------|-------------|
+| [BPC-157 Dosing Reference](./BPC-157-DOSING-REFERENCE.md) | Detailed dosing protocols and reconstitution guide |
+| [Peptide Storage Guide](./PEPTIDE-STORAGE-GUIDE.md) | Temperature, stability, and best practices |
+| [COA Verification Checklist](./COA-VERIFICATION-CHECKLIST.md) | How to verify vendor certificates of analysis |
+| [Peptide Stack Guide](./PEPTIDE-STACK-GUIDE.md) | Common research combinations and protocols |
+| [Vendor Comparison Notes](./VENDOR-COMPARISON-NOTES.md) | Framework for evaluating peptide suppliers |
+| [Complete Glossary](./PEPTIDE-GLOSSARY.md) | A–Z peptide research terminology |
+
+---
+
+*For the most up-to-date vendor reviews, COA database, and research tools: [PeptideRadar.net](https://peptideradar.net)*
